@@ -1,0 +1,86 @@
+.my{
+    .head-cell {
+        .weui-cells {
+            margin-top: 0 !important;
+            background-color: @warnColor3;
+            clip-path: ellipse(120% 97% at 50% 0);
+            color: @white;
+            height: 180px;
+            margin: 0 0 20px;
+            .vux-label-desc {
+                color: @white!important;
+            }
+            .weui-cell {
+                height: 180px;
+                &:after{
+                    height: 0;
+                }
+            }
+            .vux-label  {
+                color: @white;
+                margin-bottom: 5px;
+            }
+            .weui-cell_access{
+                .weui-cell__ft{
+                    &:after{
+                        border-color:  @white !important;
+                    }
+                }
+            }
+        }
+    }
+    .weui-cells {
+        .icon {
+            width: 16px;
+            margin-right: 16px !important;
+        }
+        .headImg {
+            width: 64px;
+            margin-right: 15px !important;
+            border-radius: 50%;
+        }
+        .vux-label  {
+            font-size: 14px;
+            color: @black;
+        }
+        .weui-cell.hasBorder
+        {
+            &:after{
+                content: '';
+                height: 1px;
+                background-color:@borderColor2;
+                width: 100%;
+                position: absolute;
+                bottom: 0;
+                margin-left: 30px;
+            }
+        }
+    }
+}
+.my-card-info{
+    .weui-cells {
+        font-size: 14px;
+        .weui-cell {
+            .weui-input {
+                &::-webkit-input-placeholder {
+                    font-size: 14px;
+                }
+            }
+            .vux-cell-value{
+                color: @black;
+            }
+        }
+    }
+    .tip {
+        color: @warnColor2;
+        padding: 15px;
+    }
+}
+.my-info{
+    img{
+        width: 50px !important;
+    }
+    .vux-label{
+        color: @inputValueColor;
+    }
+}

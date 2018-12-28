@@ -1,0 +1,154 @@
+    @disabledColor1: #d4d1d5;
+    .pt62 {
+        padding-top: 62px;
+    }
+    .login-link{
+        margin: 12px 26px 0 26px;
+        a{
+            color: @warnColor1;
+            &:last-of-type{
+                float: right;
+            }
+        }
+        .send-voice-code {
+            padding: 0;
+            line-height: normal;
+            color: @warnColor1;
+            background-color: rgba(00,00,00,0);
+            &:after{
+                border: none;
+            }
+        }
+        span {
+            color: @warnColor2;
+        }
+    }
+    .login-title {
+        h1, h2 {
+            color: @warnColor2;
+            font-size: 20px;
+        }
+        h2 {
+            margin: 6px auto 39px auto;
+            font-weight: normal;
+        }
+    }
+    .login-btn{
+        margin: 46px 10px 0 10px;
+        .weui-btn{
+            .btn
+        }
+        p {
+            margin-top: 13px;
+            text-align: center;
+            color: @warnColor2;
+            a {
+                color: @color;
+            }
+        }
+    }
+    .weui-btn{
+        &.send-code {
+            background-color: @white;
+            padding: 0.1em 1em !important;
+            color: @color;
+            &:after{
+                border-color: @color;
+            }
+        }
+    }
+    .weui-btn_mini {
+        font-size: 11px;
+        padding: 0 1.3em;
+        color: @warnColor1;
+        background-color: @white;
+        &.weui-btn_disabled {
+            color: @disabledColor1;
+            &:after {
+                border-color: @disabledColor1;
+            }
+        }
+    }
+    .img-code {
+        .vux-x-input-right-full{
+            line-height: 44px;
+            img {
+                width: auto;
+                height: 24px;
+            }
+        }
+    }
+
+    .prodIntrod{
+        .weui-cells{
+            background-color: rgba(00, 00, 00, 0) !important;
+            img{
+                width: 24px;
+                margin-right: 10px !important;
+            }
+            &:after{
+                border-bottom: 1px dashed @warnColor2 !important;
+                margin: 0 15px;
+            }
+            .flex-2{
+                &.weui-cell{
+                    width: 50%;
+                    float: left;
+                    align-items: flex-start;
+                }
+                .vux-label-desc{
+                    color: @warnColor3;
+                }
+            }
+            .title{
+                img{
+                    width: 56px;
+                    margin-right: 16px !important;
+                }
+                .vux-label{
+                    color: @black;
+                    font-size: 16px;
+                }
+                .vux-label-desc{
+                    font-size: 14px;
+                    color: @gray;
+                }
+            }
+            .materials, .condition{
+                &:before{
+                    height: 20px;
+                    width: 5px;
+                    top: 20px;
+                    border: none;
+                    background-color: @warnColor3;
+                }
+                .vux-label{
+                    margin-left: 12px;
+                }
+                .vux-label-desc{
+                    color: @black;
+                    line-height: 1.5;
+                }
+            }
+            .condition{
+                .vux-label-desc{
+                    margin-left: 15px;
+                }
+            }
+            .materials{
+                .vux-label-desc p{
+                    margin-left: 15px;
+                }
+            }
+        }
+        >div:nth-of-type(3){
+            .weui-cells{
+                &:after{
+                    border-bottom: none !important;
+                }
+            }
+        }
+        .login-btn{
+            margin-top:20px;
+        }
+    }

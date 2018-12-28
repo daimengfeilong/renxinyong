@@ -1,0 +1,280 @@
+@charset "UTF-8";
+
+.vux-slider > .vux-indicator > a > .vux-icon-dot.active, .vux-slider .vux-indicator-right > a > .vux-icon-dot.active {
+  background-color: @color-3 !important;
+}
+
+.index-module {
+  width: 100%;
+}
+
+.index-module .vux-img {
+  //background-size: 100% 100% !important;
+}
+
+.vux-slider > .vux-indicator, .vux-slider .vux-indicator-right {
+  bottom: 5px!important;
+}
+
+.index-content {
+  width: 100%;
+  padding: 0 15px 15px 15px;
+}
+
+.status-module {
+  width: 100%;
+}
+
+.trial-module {
+  width: 100%;
+  background-color: @gaugeMeterBgColor;
+  border-radius: 8px;
+  box-shadow: 0 0 8px 0 #C8C8C9;
+  overflow: hidden;
+}
+
+.quota {
+  text-align: center;
+  background-color: @gaugeMeterBgColor;
+  padding: 15px 0 6px 0;
+  border-top: 6px solid @warnColor3;
+}
+
+.quota .color-9 {
+  letter-spacing: 5px;
+  margin-bottom: 5px;
+}
+
+.quota .color-3 {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.index-gif {
+  width: 100%;
+}
+
+.index-gif img {
+  width: 100%;
+}
+
+.plan {
+  color: rgba(255, 255, 255, 0.5);
+  background-color: @warnColor3;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  padding: 15px 0;
+  box-shadow: 0 2px 4px 0 #FAA58C;
+}
+
+.plan .box {
+  margin-bottom: 15px;
+}
+
+.plan .box .left-item {
+  width: 30%;
+  padding-left: 20px;
+}
+
+.plan-periods .left-item {
+  line-height: 26px;
+}
+
+.plan-periods .flex-1 span {
+  display: inline-block;
+  width: 54px;
+  height: 26px;
+  text-align: center;
+  line-height: 26px;
+  border: 1px solid @borderWhite;
+  border-radius: 13px;
+  margin-right: 5px;
+}
+
+.active-periods {
+  background-color: @bgWhite;
+  color: @warnColor3;
+}
+
+.plan-use select {
+  width: 80%;
+  color: @white;
+  background-color: @warnColor3;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.plan-use select option {
+  color: @color-3;
+  background-color: @bgWhite;
+}
+
+.plan-use img {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-top: -2px;
+}
+
+.loan-point {
+  color: #bfbfbf;
+  font-size: 10px;
+  text-align: center;
+}
+
+.loan-point a{
+  color: @color;
+}
+
+.product-merit div {
+  flex: 1;
+  text-align: center;
+  color: @warnColor2;
+}
+
+.product-merit div img {
+  width: 48px;
+  height: 48px;
+  margin-bottom: 5px;
+}
+
+.banner-img{
+  width: 100%;
+  & > img {
+    width: 100%;
+  }
+}
+.calc-wrap{
+  width: 100%;
+  padding: 0 0 32px 0;
+  .red{
+    .vux-cell-value {
+      color: red !important;
+    }
+  }
+  .weui-icon-circle,.weui-icon-success{
+    font-size: 16px!important;
+  }
+}
+.calc-wrap .weui-label, .calc-wrap .vux-datetime, .calc-wrap .vux-cell-bd{
+  color: #333!important;
+}
+.calc-wrap .vux-cell-value{
+  color: #7d7d7d!important;
+}
+.calc-wrap .weui-cell_access .weui-cell__ft:after{
+  width: 7px;
+  height: 7px;
+  -webkit-transform: matrix(0.71, 0.71, 0.71, -0.71, 0, 0);
+  transform: matrix(0.71, 0.71, 0.71, -0.71, 0, 0);
+  border-width: 1px 1px 0 0;
+  margin-top: -6px;
+  right: -2px;
+}
+.calc-wrap .weui-cells {
+  margin-top: 0!important;
+  padding: 0 18px;
+  background-color: rgba(255,255,255,0);
+}
+.calc-wrap .weui-cells .weui-cell{
+  padding: 15px 0!important;
+}
+.calc-wrap .vux-cell-box, .calc-wrap .vux-x-input{
+  border-bottom: 1px solid #f4f4f4;
+}
+.calc-wrap .trial-tr:before{
+  border-top: 0 solid #d9d9d9!important;
+}
+.topBg{
+  width: 100%;
+}
+.topBg img{
+  width: 100%;
+}
+.apply-module{
+  width: 93%;
+  margin: 0 auto;
+  padding: 20px 0 30px 0;
+  background-color: #fff;
+  box-shadow: 0 4px 10px 2px rgba(38,96,119,0.7);
+  position: relative;
+}
+.bottomBg{
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  width: 100%;
+}
+
+//未通过弹窗样式
+.refuse-img {
+  width: 123px;
+  height: auto;
+  margin: 0 auto 8px auto;
+}
+.refuse-img img {
+  width: 100%;
+  height: auto;
+}
+.refuse-tit {
+  font-size: 18px!important;
+  color: @color-3;
+  margin-bottom: 5px;
+}
+.refuse-explain {
+  font-size: 15px;
+  color: @color-9;
+  margin-bottom: 20px;
+}
+.more-btn {
+  width: 195px;
+  height: 36px;
+  margin: 0 auto;
+  font-size: 14px;
+  color: @white;
+  text-align: center;
+  line-height: 36px;
+  background: url("../assets/image/index/refuse_btn.png") no-repeat center;
+  background-size: 100% 100%;
+}
+.refuse-module{
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 5;
+  background-color: rgba(0,0,0,0.7);
+}
+.refuse-module .refuse-module-cnt{
+    position: absolute;
+    left: 48%;
+    top: 1%;
+    width: 96%;
+    height: 98%;
+    margin-left: -46%;
+    background-color: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+}
+.refuse-module p{
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 5;
+  width: 100%;
+  height: 20px;
+  line-height: 20px;
+  text-align: right;
+  padding-right: 10px;
+  /*background-color: #f6f7fc;*/
+}
+.refuse-module img[name=close]{
+  width: 10px;
+}
+.refuse-module .refuse-module-cnt div{
+  width: 100%;
+  height: 100%;
+  -webkit-overflow-scrolling: touch;
+  overflow-y: scroll;
+}

@@ -1,0 +1,68 @@
+@charset 'UTF-8';
+
+.weui-cells{
+    font-size: 14px!important;margin-top: 7px!important;
+    .weui-cell{
+        padding: 15px!important;
+    }
+    ::-webkit-input-placeholder {
+        color: #E7E7E7;
+        font-size: 14px;
+    }
+    :-moz-placeholder {
+        color: #E7E7E7;
+        font-size: 14px;
+    }
+    ::-moz-placeholder {
+        color: #E7E7E7;
+        font-size: 14px;
+    }
+    :-ms-input-placeholder {
+        color: #E7E7E7;
+        font-size: 14px;
+    }
+}
+.weui-cell_access{
+    .weui-cell__ft{
+        color: #999;
+        &:after{
+            border-color:  @arrowColor !important;
+        }
+    }
+}
+.weui-cells:before,.weui-cells:after{
+    border: none!important;
+}
+.weui-cell:before{
+    border-top: 1px solid #f5f5f5!important;
+    right: 15px;
+}
+.vux-cell-box:not(:first-child):before{
+    border:none!important;
+}
+
+.weui-label,.vux-datetime,.vux-cell-bd{
+    color: @inputLabelColor!important;
+}
+.vux-cell-value{
+    color: @inputValueColor!important;
+}
+.weui-cells_checkbox .weui-icon-checked:before{
+    font-size: 18px!important;
+}
+.weui-btn_disabled.weui-btn_default {
+    color: #fff!important;
+    background-color: #d4d1d5!important;
+}
+.group-input-right{
+    .weui-input{
+        text-align: right;
+    }
+    .weui-textarea{
+        text-align: right;
+    }
+}
+.weui-btn_default:not(.weui-btn_disabled):active {
+    color: #fff!important;
+    background-color: @color!important;
+}

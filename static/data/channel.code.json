@@ -1,0 +1,799 @@
+[
+  {
+    "channelName": "速贷之家",
+    "channelCode": "36500376",
+    "sourceOsType": "30500024",
+    "channelVal": "sdzj"
+  },
+  {
+    "channelName": "电销H5",
+    "channelCode": "36500384",
+    "sourceOsType": "30500025",
+    "channelVal": "dxh5"
+  },
+  {
+    "channelName": "速贷之家1",
+    "channelCode": "36500377",
+    "sourceOsType": "30500026",
+    "channelVal": "sdzj1"
+  },
+  {
+    "channelName": "速贷之家2",
+    "channelCode": "36500378",
+    "sourceOsType": "30500027",
+    "channelVal": "sdzj2"
+  },
+  {
+    "channelName": "贷嘛",
+    "channelCode": "36500379",
+    "sourceOsType": "30500028",
+    "channelVal": "daima"
+  },
+  {
+    "channelName": "贷嘛1",
+    "channelCode": "36500380",
+    "sourceOsType": "30500029",
+    "channelVal": "daima1"
+  },
+  {
+    "channelName": "我爱卡",
+    "channelCode": "36500381",
+    "sourceOsType": "30500030",
+    "channelVal": "woaika"
+  },
+  {
+    "channelName": "我爱卡1",
+    "channelCode": "36500382",
+    "sourceOsType": "30500031",
+    "channelVal": "woaika1"
+  },
+  {
+    "channelName": "百融",
+    "channelCode": "36500392",
+    "sourceOsType": "30500032",
+    "channelVal": "bairong"
+  },
+  {
+    "channelName": "百融1",
+    "channelCode": "36500393",
+    "sourceOsType": "30500033",
+    "channelVal": "bairong1"
+  },
+  {
+    "channelName": "百融2",
+    "channelCode": "36500394",
+    "sourceOsType": "30500034",
+    "channelVal": "bairong2"
+  },
+  {
+    "channelName": "借点钱",
+    "channelCode": "36500385",
+    "sourceOsType": "30500035",
+    "channelVal": "borrowMoney"
+  },
+  {
+    "channelName": "闪贷",
+    "channelCode": "36500386",
+    "sourceOsType": "30500036",
+    "channelVal": "shandai"
+  },
+  {
+    "channelName": "好贷推广2",
+    "channelCode": "36500387",
+    "sourceOsType": "30500037",
+    "channelVal": "goodsPromotion2"
+  },
+  {
+    "channelName": "借了吗",
+    "channelCode": "36500388",
+    "sourceOsType": "30500038",
+    "channelVal": "dyb"
+  },
+  {
+    "channelName": "借了吗1",
+    "channelCode": "36500389",
+    "sourceOsType": "30500039",
+    "channelVal": "dyb1"
+  },
+  {
+    "channelName": "借了吗2",
+    "channelCode": "36500390",
+    "sourceOsType": "30500040",
+    "channelVal": "dyb2"
+  },
+  {
+    "channelName": "借款王",
+    "channelCode": "36500391",
+    "sourceOsType": "30500041",
+    "channelVal": "borrowKing"
+  },
+  {
+    "channelName": "鸟哥笔记H5",
+    "channelCode": "36500396",
+    "sourceOsType": "30500042",
+    "channelVal": "birdNoteH5"
+  },
+  {
+    "channelName": "自然H5",
+    "channelCode": "36500401",
+    "sourceOsType": "30500043",
+    "channelVal": "zrH5",
+    "inviteStatus": "zZrR"
+  },
+  {
+    "channelName": "卡牛H5",
+    "channelCode": "36500399",
+    "sourceOsType": "30500044",
+    "channelVal": "knH5",
+    "userId": "0000"
+  },
+  {
+    "channelName": "集奥电销",
+    "channelCode": "36500408",
+    "sourceOsType": "30500045",
+    "channelVal": "jhdx",
+    "inviteStatus": "jJaA"
+  },
+  {
+    "channelName": "卡牛H5-1",
+    "channelCode": "36500402",
+    "sourceOsType": "30500046",
+    "channelVal": "knH5-1",
+    "userId": "0000"
+  },
+  {
+    "channelName": "甄视H5",
+    "channelCode": "36500403",
+    "sourceOsType": "30500047",
+    "channelVal": "zsH5"
+  },
+  {
+    "channelName": "甄视H5-1",
+    "channelCode": "36500404",
+    "sourceOsType": "30500048",
+    "channelVal": "zsH5-1"
+  },
+  {
+    "channelName": "甄视H5-2",
+    "channelCode": "36500405",
+    "sourceOsType": "30500049",
+    "channelVal": "zsH5-2"
+  },
+  {
+    "channelName": "甄视H5-3",
+    "channelCode": "36500406",
+    "sourceOsType": "30500050",
+    "channelVal": "zsH5-3"
+  },
+  {
+    "channelName": "甄视H5-4",
+    "channelCode": "36500407",
+    "sourceOsType": "30500051",
+    "channelVal": "zsH5-4"
+  },
+  {
+    "channelName": "电销召回H5",
+    "channelCode": "36500411",
+    "sourceOsType": "30500052",
+    "channelVal": "dxzh"
+  },
+  {
+    "channelName": "任信吧H5",
+    "channelCode": "36500412",
+    "sourceOsType": "30500053",
+    "channelVal": "rxH5",
+    "inviteStatus": "rxH5"
+  },
+  {
+    "channelName": "小猪钱包H5",
+    "channelCode": "36500424",
+    "sourceOsType": "30500054",
+    "channelVal": "pigH5"
+  },
+  {
+    "channelName": "融360H5",
+    "channelCode": "36500413",
+    "sourceOsType": "30500055",
+    "channelVal": "rong360",
+    "isSaveBrowseRecord": "0000"
+  },
+  {
+    "channelName": "奥金B端电销",
+    "channelCode": "36500113",
+    "sourceOsType": "30500056",
+    "channelVal": "dxaj",
+    "inviteStatus": "aAjJ"
+  },
+  {
+    "channelName": "百应智能陌拜",
+    "channelCode": "36500427",
+    "sourceOsType": "30500058",
+    "channelVal": "znmb",
+    "inviteStatus": "dDxX"
+  },
+  {
+    "channelName": "甄视电销H5",
+    "channelCode": "36500426",
+    "sourceOsType": "30500059",
+    "channelVal": "dxzs",
+    "inviteStatus": "zZsS"
+  },
+  {
+    "channelName": "宝街电销",
+    "channelCode": "36500421",
+    "sourceOsType": "30500060",
+    "channelVal": "dxbj",
+    "inviteStatus": "bBjJ"
+  },
+  {
+    "channelName": "现金白卡",
+    "channelCode": "36500429",
+    "sourceOsType": "30500061",
+    "channelVal": "baika"
+  },
+  {
+    "channelName": "借贷家",
+    "channelCode": "36500428",
+    "sourceOsType": "30500062",
+    "channelVal": "jiedai"
+  },
+  {
+    "channelName": "钱院",
+    "channelCode": "36500430",
+    "sourceOsType": "30500063",
+    "channelVal": "qianyuan"
+  },
+  {
+    "channelName": "钱院电销",
+    "channelCode": "36500431",
+    "sourceOsType": "30500064",
+    "channelVal": "qydx",
+    "inviteStatus": "qQyY"
+  },
+  {
+    "channelName": "淘钱宝",
+    "channelCode": "36500414",
+    "sourceOsType": "30500065",
+    "channelVal": "tqb"
+  },
+  {
+    "channelName": "小白贷款",
+    "channelCode": "36500415",
+    "sourceOsType": "30500066",
+    "channelVal": "smLoan"
+  },
+  {
+    "channelName": "财鸟贷款",
+    "channelCode": "36500416",
+    "sourceOsType": "30500067",
+    "channelVal": "moneyBird"
+  },
+  {
+    "channelName": "好享贷",
+    "channelCode": "36500417",
+    "sourceOsType": "30500068",
+    "channelVal": "likeLoan"
+  },
+  {
+    "channelName": "借花花",
+    "channelCode": "36500418",
+    "sourceOsType": "30500069",
+    "channelVal": "jhh"
+  },
+  {
+    "channelName": "用卡达人",
+    "channelCode": "36500419",
+    "sourceOsType": "30500070",
+    "channelVal": "ykdr"
+  },
+  {
+    "channelName": "你我贷",
+    "channelCode": "36500420",
+    "sourceOsType": "30500071",
+    "channelVal": "umd"
+  },
+  {
+    "channelName": "誉用金服",
+    "channelCode": "36500422",
+    "sourceOsType": "30500072",
+    "channelVal": "ymjf"
+  },
+  {
+    "channelName": "翱海科技",
+    "channelCode": "36500423",
+    "sourceOsType": "30500073",
+    "channelVal": "hhkj"
+  },
+  {
+    "channelName": "极光H5",
+    "channelCode": "36500432",
+    "sourceOsType": "30500074",
+    "channelVal": "jgH5"
+  },
+  {
+    "channelName": "卡牛H5-2",
+    "channelCode": "36500434",
+    "sourceOsType": "30500075",
+    "channelVal": "knH5-2",
+    "userId": "0000"
+  },
+  {
+    "channelName": "智深数据H5",
+    "channelCode": "36500435",
+    "sourceOsType": "30500076",
+    "channelVal": "deepH5",
+    "inviteStatus": "dDxX"
+  },
+  {
+    "channelName": "后汉电销H5",
+    "channelCode": "36500436",
+    "sourceOsType": "30500077",
+    "channelVal": "hhdx",
+    "inviteStatus": "hHhH"
+  },
+  {
+    "channelName": "速贷电销",
+    "channelCode": "36500437",
+    "sourceOsType": "30500078",
+    "channelVal": "sddx",
+    "inviteStatus": "sSdD"
+  },
+  {
+    "channelName": "及贷H5",
+    "channelCode": "36500438",
+    "sourceOsType": "30500079",
+    "channelVal": "jdH5"
+  },
+  {
+    "channelName": "快贷H5",
+    "channelCode": "36500439",
+    "sourceOsType": "30500080",
+    "channelVal": "kdH5"
+  },
+  {
+    "channelName": "借贷家H5",
+    "channelCode": "36500440",
+    "sourceOsType": "30500081",
+    "channelVal": "brHome"
+  },
+  {
+    "channelName": "58金融",
+    "channelCode": "36500441",
+    "sourceOsType": "30500082",
+    "channelVal": "58jr"
+  },
+  {
+    "channelName": "凡普金科",
+    "channelCode": "36500442",
+    "sourceOsType": "30500083",
+    "channelVal": "fpjk"
+  },
+  {
+    "channelName": "快贷H5-1",
+    "channelCode": "36500443",
+    "sourceOsType": "30500084",
+    "channelVal": "kdH5-1"
+  },
+  {
+    "channelName": "快贷H5-2",
+    "channelCode": "36500444",
+    "sourceOsType": "30500085",
+    "channelVal": "kdH5-2"
+  },
+  {
+    "channelName": "快贷H5-3",
+    "channelCode": "36500445",
+    "sourceOsType": "30500086",
+    "channelVal": "kdH5-3"
+  },
+  {
+    "channelName": "快贷H5-4",
+    "channelCode": "36500446",
+    "sourceOsType": "30500087",
+    "channelVal": "kdH5-4"
+  },
+  {
+    "channelName": "线下战略",
+    "channelCode": "36500447",
+    "sourceOsType": "30500089",
+    "channelVal": "strategy"
+  },
+  {
+    "channelName": "新普H5",
+    "channelCode": "36500448",
+    "sourceOsType": "30500090",
+    "channelVal": "xpH5"
+  },
+  {
+    "channelName": "甄视车主贷",
+    "channelCode": "36500449",
+    "sourceOsType": "30500091",
+    "channelVal": "zscz",
+    "inviteStatus": "cCzZ"
+  },
+  {
+    "channelName": "新普1",
+    "channelCode": "36500450",
+    "sourceOsType": "30500092",
+    "channelVal": "xpH5-1"
+  },
+  {
+    "channelName": "新普2",
+    "channelCode": "36500451",
+    "sourceOsType": "30500093",
+    "channelVal": "xpH5-2"
+  },
+  {
+    "channelName": "新普3",
+    "channelCode": "36500452",
+    "sourceOsType": "30500094",
+    "channelVal": "xpH5-3"
+  },
+  {
+    "channelName": "新普4",
+    "channelCode": "36500453",
+    "sourceOsType": "30500095",
+    "channelVal": "xpH5-4"
+  },
+  {
+    "channelName": "新普5",
+    "channelCode": "36500454",
+    "sourceOsType": "30500096",
+    "channelVal": "xpH5-5"
+  },
+  {
+    "channelName": "紫水磐科技电销H5",
+    "channelCode": "36500458",
+    "sourceOsType": "30500097",
+    "channelVal": "zsdxH5",
+    "inviteStatus": "dDxX"
+  },
+  {
+    "channelName": "凡普金科1",
+    "channelCode": "36500459",
+    "sourceOsType": "30500098",
+    "channelVal": "fpjk1"
+  },
+  {
+    "channelName": "财鸟贷款1H5",
+    "channelCode": "36500461",
+    "sourceOsType": "30500099",
+    "channelVal": "bird1H5"
+  },
+  {
+    "channelName": "前院1",
+    "channelCode": "36500463",
+    "sourceOsType": "30500100",
+    "channelVal": "qianyuan1"
+  },
+  {
+    "channelName": "前院2",
+    "channelCode": "36500464",
+    "sourceOsType": "30500101",
+    "channelVal": "qianyuan2"
+  },
+  {
+    "channelName": "嘉仁普慧",
+    "channelCode": "36500465",
+    "sourceOsType": "30500102",
+    "channelVal": "jrph"
+  },
+  {
+    "channelName": "博雅开户",
+    "channelCode": "36500487",
+    "sourceOsType": "30500103",
+    "channelVal": "bykh"
+  },
+  {
+    "channelName": "新普6",
+    "channelCode": "36500469",
+    "sourceOsType": "30500104",
+    "channelVal": "xpH5-6"
+  },
+  {
+    "channelName": "新普7",
+    "channelCode": "36500470",
+    "sourceOsType": "30500105",
+    "channelVal": "xpH5-7"
+  },
+  {
+    "channelName": "新普8",
+    "channelCode": "36500471",
+    "sourceOsType": "30500106",
+    "channelVal": "xpH5-8"
+  },
+  {
+    "channelName": "新普9",
+    "channelCode": "36500472",
+    "sourceOsType": "30500107",
+    "channelVal": "xpH5-9"
+  },
+  {
+    "channelName": "新普10",
+    "channelCode": "36500473",
+    "sourceOsType": "30500108",
+    "channelVal": "xpH5-10"
+  },
+  {
+    "channelName": "新普11",
+    "channelCode": "36500474",
+    "sourceOsType": "30500109",
+    "channelVal": "xpH5-11"
+  },
+  {
+    "channelName": "新普12",
+    "channelCode": "36500475",
+    "sourceOsType": "30500110",
+    "channelVal": "xpH5-12"
+  },
+  {
+    "channelName": "新普13",
+    "channelCode": "36500476",
+    "sourceOsType": "30500111",
+    "channelVal": "xpH5-13"
+  },
+  {
+    "channelName": "新普14",
+    "channelCode": "36500477",
+    "sourceOsType": "30500112",
+    "channelVal": "xpH5-14"
+  },
+  {
+    "channelName": "新普15",
+    "channelCode": "36500478",
+    "sourceOsType": "30500113",
+    "channelVal": "xpH5-15"
+  },
+  {
+    "channelName": "新普16",
+    "channelCode": "36500479",
+    "sourceOsType": "30500114",
+    "channelVal": "xpH5-16"
+  },
+  {
+    "channelName": "新普17",
+    "channelCode": "36500480",
+    "sourceOsType": "30500115",
+    "channelVal": "xpH5-17"
+  },
+  {
+    "channelName": "新普18",
+    "channelCode": "36500481",
+    "sourceOsType": "30500116",
+    "channelVal": "xpH5-18"
+  },
+  {
+    "channelName": "新普19",
+    "channelCode": "36500482",
+    "sourceOsType": "30500117",
+    "channelVal": "xpH5-19"
+  },
+  {
+    "channelName": "新普20",
+    "channelCode": "36500483",
+    "sourceOsType": "30500118",
+    "channelVal": "xpH5-20"
+  },
+  {
+    "channelName": "新普21",
+    "channelCode": "36500484",
+    "sourceOsType": "30500119",
+    "channelVal": "xpH5-21"
+  },
+  {
+    "channelName": "新普22",
+    "channelCode": "36500485",
+    "sourceOsType": "30500120",
+    "channelVal": "xpH5-22"
+  },
+  {
+    "channelName": "新普23",
+    "channelCode": "36500486",
+    "sourceOsType": "30500121",
+    "channelVal": "xpH5-23"
+  },
+  {
+    "channelName": "财鸟贷款2",
+    "channelCode": "36500490",
+    "sourceOsType": "30500123",
+    "channelVal": "bird2"
+  },
+  {
+    "channelName": "财鸟贷款3",
+    "channelCode": "36500491",
+    "sourceOsType": "30500124",
+    "channelVal": "bird3"
+  },
+  {
+    "channelName": "财鸟贷款4",
+    "channelCode": "36500492",
+    "sourceOsType": "30500125",
+    "channelVal": "bird4"
+  },
+  {
+    "channelName": "虚拟标签",
+    "channelCode": "36500488",
+    "sourceOsType": "30500126",
+    "channelVal": "virtual"
+  },
+  {
+    "channelName": "融360电销",
+    "channelCode": "36500493",
+    "sourceOsType": "30500127",
+    "channelVal": "dx360",
+    "inviteStatus": "rRdD"
+  },
+  {
+    "channelName": "客服专享",
+    "channelCode": "36500496",
+    "sourceOsType": "30500128",
+    "channelVal": "kfzx",
+    "inviteStatus": "kKfF"
+  },
+  {
+    "channelName": "花钱无忧H5",
+    "channelCode": "36500494",
+    "sourceOsType": "30500129",
+    "channelVal": "hqwy"
+  },
+  {
+    "channelName": "花钱无忧H5-1",
+    "channelCode": "36500495",
+    "sourceOsType": "30500130",
+    "channelVal": "hqwy1"
+  },
+  {
+    "channelName": "钱探玩卡",
+    "channelCode": "36500502",
+    "sourceOsType": "30500131",
+    "channelVal": "qtwk"
+  },
+  {
+    "channelName": "现金超人H5",
+    "channelCode": "36500503",
+    "sourceOsType": "30500132",
+    "channelVal": "xjcr"
+  },
+  {
+    "channelName": "信用管家-H5",
+    "channelCode": "36500504",
+    "sourceOsType": "30500133",
+    "channelVal": "xygj"
+  },
+  {
+    "channelName": "信用管家H5-1",
+    "channelCode": "36500505",
+    "sourceOsType": "30500134",
+    "channelVal": "xygj1"
+  },
+  {
+    "channelName": "值得借H5",
+    "channelCode": "36500506",
+    "sourceOsType": "30500135",
+    "channelVal": "zdj"
+  },
+  {
+    "channelName": "庞大师H5",
+    "channelCode": "36500507",
+    "sourceOsType": "30500136",
+    "channelVal": "pds"
+  },
+  {
+    "channelName": "信而富H5",
+    "channelCode": "36500508",
+    "sourceOsType": "30500137",
+    "channelVal": "xef"
+  },
+  {
+    "channelName": "简单借款H5",
+    "channelCode": "36500509",
+    "sourceOsType": "30500138",
+    "channelVal": "jdjk"
+  },
+  {
+    "channelName": "及时雨H5",
+    "channelCode": "36500511",
+    "sourceOsType": "30500139",
+    "channelVal": "jsy"
+  },
+  {
+    "channelName": "360金融",
+    "channelCode": "36500151",
+    "sourceOsType": "30500016",
+    "channelVal": "360jr"
+  },
+  {
+    "channelName": "三生映画",
+    "channelCode": "36500512",
+    "sourceOsType": "30500140",
+    "channelVal": "ssyh",
+    "inviteStatus": "dDxX"
+  },
+  {
+    "channelName": "兴义恒信",
+    "channelCode": "36500513",
+    "sourceOsType": "30500141",
+    "channelVal": "xyhx",
+    "inviteStatus": "dDxX"
+  },
+  {
+    "channelName": "亮世繁",
+    "channelCode": "36500514",
+    "sourceOsType": "30500142",
+    "channelVal": "lsf"
+  },
+  {
+    "channelName": "三生映画传媒",
+    "channelCode": "36500515",
+    "sourceOsType": "30500143",
+    "channelVal": "ssyhcm"
+  },
+  {
+    "channelName": "甄视白名单",
+    "channelCode": "36500516",
+    "sourceOsType": "30500144",
+    "channelVal": "zsbmd",
+    "inviteStatus": "dDxX"
+  },
+  {
+    "channelName": "线下流量",
+    "channelCode": "36500517",
+    "sourceOsType": "30500145",
+    "channelVal": "xxll"
+  },
+  {
+    "channelName": "甄好贷H5",
+    "channelCode": "36500519",
+    "sourceOsType": "30500146",
+    "channelVal": "zhd"
+  },
+  {
+    "channelName": "有钱365",
+    "channelCode": "36500520",
+    "sourceOsType": "30500147",
+    "channelVal": "yq365"
+  },
+  {
+    "channelName": "喀什博雅官网",
+    "channelCode": "36500012",
+    "sourceOsType": "30500148",
+    "channelVal": "ksbygw"
+  },
+  {
+    "channelName": "外快侠H5",
+    "channelCode": "36500524",
+    "sourceOsType": "30500151",
+    "channelVal": "wkxh5"
+  },
+  {
+    "channelName": "用卡达人H5",
+    "channelCode": "36500525",
+    "sourceOsType": "30500153",
+    "channelVal": "ykdrh5"
+  },
+  {
+    "channelName": "用卡达人2",
+    "channelCode": "36500348",
+    "sourceOsType": "30500154",
+    "channelVal": "ykdr2"
+  },
+  {
+    "channelName": "山宇文化",
+    "channelCode": "36500526",
+    "sourceOsType": "30500155",
+    "channelVal": "sywh"
+  },
+  {
+    "channelName": "战略电销H5",
+    "channelCode": "36500523",
+    "sourceOsType": "30500157",
+    "channelVal": "zldx",
+    "inviteStatus": "zZlL"
+  },
+  {
+    "channelName": "测试",
+    "channelCode": "36510000",
+    "sourceOsType": "30510000",
+    "channelVal": "ylcs"
+  }
+]

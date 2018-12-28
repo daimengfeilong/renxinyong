@@ -1,0 +1,374 @@
+
+//上传图片
+.upload-wrap{
+    padding: 0 20px 20px;
+    .upload-item{
+        margin: 10px 0;position: relative;
+        input{
+            position: absolute;top: 0;left: 0;width: 100%;height: 100%;opacity: 0;
+        }
+    }
+    .upload-preview{
+        position: absolute;top: 0;left: 0;
+        width: 100%;height: 100%;
+        background-size:100% 100%;
+        background-repeat: no-repeat;
+        border-radius: 10px;
+        img{
+            width: 100%;height: 100%;border-radius: 5px;
+        }
+    }
+}
+//认证步骤
+.auth-step{
+    padding: 10px;
+    .flex-1{
+        padding: 5px;
+    }
+    .num{
+        color: rgba(251,134,99,0.2);text-align: center;font-size: 18px;font-weight: bolder;
+    }
+    .line{
+        height: 8px;background: rgba(251,134,99,0.2);margin-top: 10px;
+    }
+    .active{
+        .num{
+            color: @warnColor3;
+        }
+        .line{
+            background: @warnColor3;
+        }
+    }
+}
+//资质认证
+.apt-item{
+    background: @white;margin: 10px 0;padding: 0 15px;
+    .apt-row{
+        padding: 15px 0;
+    }
+    .pic{
+        width: 32px;
+    }
+    .back{
+        width: 25px;
+    }
+    .handler{
+        border-top: 1px dashed #e7e7e7;padding:10px 0;
+        label{
+            color: #e7e7e7;
+        }
+    }
+    .state{
+        i{
+            width: 14px;height: 14px;display: inline-block;background: url(../assets/image/person/Prove_Icon_Checked@2x.png) no-repeat;background-size: 100%;vertical-align: middle
+        }
+        span{
+            vertical-align: middle;color: #96999D
+        }
+        .green{
+            color: #43C862;
+        }
+    }
+    .imgGray{
+        filter: grayscale(100%);
+        filter: gray;
+    }
+}
+//信用卡
+.staging-number{
+    a{
+        display: inline-block;border: 1px solid #DEDDDD;background: #F5F5F5;border-radius: 5px;padding: 5px 0px;color: #C2C1C1;width: 60px;text-align: center;margin: 0 5px;
+    }
+    a:first-child {
+        margin-left: 0;
+    }
+    .active{
+        border: 1px solid @warnColor3;background: #FEE6DF;color: @warnColor3;
+    }
+}
+.prod-num{
+    background: #fff;border-radius: 10px;
+    .pn-head{
+        background:  @warnColor3;color: #fde7e7;line-height: 48px;border-top-left-radius:10px;border-top-right-radius:10px;
+    }
+    .pn-body{
+        height: 350px;overflow: scroll;
+    }
+    .item{
+        line-height: 45px;
+    }
+}
+
+//人脸识别
+.face-wrap{
+    padding: 15px;
+    .item{
+        height: 220px;border-radius: 6px;background: url(../assets/image/person/face_img_default@2x.png) no-repeat #94BFFE;
+        background-position: center 100%;background-size: 45%;
+    }
+    .success{
+        background: url(../assets/image/person/face_img_success@2x.png) no-repeat #94BFFE;
+        background-position: center 100%;background-size: 45%;
+    }
+}
+.checkbox-list{
+    padding: 0 15px;
+    .item{
+        margin: 15px 0;
+    }
+    img{
+        width: 14px;vertical-align: middle
+    }
+    label{
+        vertical-align: middle;font-size: 15px;margin-left: 5px;
+    }
+}
+
+//开户
+.openBankAcct{
+    padding: 15px;
+    .box{
+        border-radius: 4px;margin: 10px 0;
+    }
+    .acct-tips{
+        border: 1px dashed @carmine;border-radius: 4px;padding: 15px;margin-top: 20px;
+        color: @warnColor2;
+        h3{
+            color: @warnColor3;margin-top: 10px;margin-bottom: 5px;
+        }
+        img{
+            width: 18px;
+        }
+    }
+}
+
+.noCreditCard{
+  text-align: center;
+  color: @color;
+}
+//身份认证
+.face-verify{
+    position: relative;
+    .face-head{
+        background: #f6f6f6;
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+    .notice-img{
+        width: 130px;
+    }
+    .upload-wrap{
+        padding: 7.5px;
+        &>.flex-1{
+            padding: 7.5px;
+        }
+    }
+    .upload-box{
+        position: relative;
+        border: 1px dashed #3b96f7;
+        img{
+            height: 100%;
+        }
+        input{
+            position: absolute;top: 0;left: 0;width: 100%;height: 100%;opacity: 0;
+        }
+        .perview{
+            position: absolute;top: 0;left: 0;
+            width: 100%;height: 100%;
+            background-size:100% 100%;
+            background-repeat: no-repeat;
+            text-align: center;
+            img{
+                width: 35px;height: 35px;margin-top: 2em;
+            }
+        }
+    }
+    .random-number{
+        a{
+            display: inline-block;
+            border: 1px dashed #3b96f7;
+            color: #3b96f7;
+            padding: 3px 13px;
+            font-weight: bolder;
+            font-size: 26px;
+            margin: 0 3px;
+        }
+    }
+    .step-text{
+        text-align: left;
+        font-size: 14px;
+        color: #666;
+        display: inline-block;
+    }
+    .upload-video{
+        position: relative;
+        input{
+            position: absolute;top: 0;left: 0;width: 100%;height: 100%;opacity: 0;
+        }
+    }
+}
+
+//确认协议列表
+.contractList li{
+  height: 50px!important;
+  line-height: 50px!important;
+  background-color: @bgWhite!important;
+}
+.submitBtn {
+  background-color: @bgColor;
+  font-size: 16px;
+  color: @white;
+}
+.submitBtn span{
+  letter-spacing: 0!important;
+}
+
+//运营商认证
+.service-img{
+  width: 100%;
+  text-align: center;
+  padding: 30px 0;
+  &>img{
+    width: 100px;
+  }
+}
+.service-module{
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: @bgWhite!important;
+  overflow-y: scroll;
+}
+.service .weui-cell:before{
+  border-top: 1px solid #d9d9d9!important;
+}
+.forgetPwd{
+  //position: absolute;
+  //left: 0;
+  //top: 0;
+}
+.unChecked{
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: url("../assets/image/person/check_Icon_Default@2x.png") no-repeat center;
+  background-size: 100% 100%;
+  vertical-align: middle;
+}
+.checked{
+  background: url("../assets/image/person/check_Icon_Chose@2x.png") no-repeat center;
+  background-size: 100% 100%;
+}
+.check-tr{
+  position: relative;
+}
+.check-tr:before{
+  content: " ";
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  height: 1px;
+  border-top: 1px solid #d9d9d9;
+  color: #D9D9D9;
+  -webkit-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-transform: scaleY(0.5);
+  transform: scaleY(0.5);
+  left: 15px;
+}
+.serviceCaptcha-tit{
+  padding: 12px 15px 5px 15px;
+  color: #bebebe;
+}
+
+.captcha-dialog-wrap{
+  .weui-cells{
+    border-radius: 10px!important;
+  }
+}
+
+//确认投保页
+.insurance-tit {
+  padding: 12px 15px;
+  background-color: #f7f7f9;
+  color: #bebebe;
+}
+.insurance-list{
+  width: 100%;
+  padding: 0 15px;
+}
+.insurance-name {
+  height: 45px;
+  line-height: 45px;
+  font-size: 16px;
+  &>span{
+    vertical-align: middle;
+  }
+}
+.insurance-txt{
+  font-size: 14px;
+  &>a{
+    color: @color;
+  }
+}
+.sure-btn{
+  margin-top: 100px;
+  padding: 0 15px;
+}
+
+//华夏银行开户
+.bankImg{
+  width: 100%;
+  padding: 50px 15px 25px;
+  div{
+    width: 100%;
+    text-align: center;
+    .openBtn{
+      display: inline-block;
+      font-size: 16px;
+      color: @color;
+      padding: 5px 20px;
+      border: 1px solid @color;
+      border-radius: 16px;
+    }
+  }
+}
+.function-list{
+  padding: 35px 15px 65px;
+  border-top: 10px solid #f5f6f8;
+  .function-list-tit{
+    font-size: 15px;
+  }
+  ul{
+    overflow: hidden;
+    margin-top: 50px;
+    li{
+      float: left;
+      width: 33.3%;
+      text-align: center;
+      margin-bottom: 20px;
+      img{
+        width: 56px;
+        margin-bottom: 10px;
+      }
+      p{
+        font-size: 14px;
+      }
+    }
+  }
+}
+.backBtn{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 5;
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  font-size: 16px;
+  background-color: #f5f6f8;
+}
